@@ -23,8 +23,8 @@
         <module>springboot-rabbitmq-pubsub</module>
         <module>springboot-rabbitmq-routing</module>
         <module>springboot-rabbitmq-topics</module>
-        <module>springboot-rabbitmq-rpc</module>
-        <module>springboot-rabbitmq-publisher</module>
+        <module>springboot-rabbitmq-rpc-client</module>
+        <module>springboot-rabbitmq-rpc-server</module>
     </modules>
     <dependencies>
         <dependency>
