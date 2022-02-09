@@ -25,6 +25,12 @@
         <module>springboot-rabbitmq-topics</module>
         <module>springboot-rabbitmq-rpc-client</module>
         <module>springboot-rabbitmq-rpc-server</module>
+        <module>springboot-rabbitmq-confirm</module>
+        <module>springboot-rabbitmq-dlx</module>
+        <module>springboot-rabbitmq-transaction</module>
+        <module>springboot-rabbitmq-ttl</module>
+        <module>springboot-rabbitmq-delay-message-plugin</module>
+        <module>springboot-rabbitmq-deley-message-dlx</module>
     </modules>
     <dependencies>
         <dependency>
